@@ -1,0 +1,11 @@
+D:\test_KozlovEvgeny\Form\test_Kozlov_Evgeny\test_Kozlov_Evgeny\bin\Debug\test_Kozlov_Evgeny.exe.config
+D:\test_KozlovEvgeny\Form\test_Kozlov_Evgeny\test_Kozlov_Evgeny\bin\Debug\test_Kozlov_Evgeny.exe
+D:\test_KozlovEvgeny\Form\test_Kozlov_Evgeny\test_Kozlov_Evgeny\bin\Debug\test_Kozlov_Evgeny.pdb
+D:\test_KozlovEvgeny\Form\test_Kozlov_Evgeny\test_Kozlov_Evgeny\obj\Debug\test_Kozlov_Evgeny.csprojAssemblyReference.cache
+D:\test_KozlovEvgeny\Form\test_Kozlov_Evgeny\test_Kozlov_Evgeny\obj\Debug\test_Kozlov_Evgeny.Form1.resources
+D:\test_KozlovEvgeny\Form\test_Kozlov_Evgeny\test_Kozlov_Evgeny\obj\Debug\test_Kozlov_Evgeny.Properties.Resources.resources
+D:\test_KozlovEvgeny\Form\test_Kozlov_Evgeny\test_Kozlov_Evgeny\obj\Debug\test_Kozlov_Evgeny.csproj.GenerateResource.cache
+D:\test_KozlovEvgeny\Form\test_Kozlov_Evgeny\test_Kozlov_Evgeny\obj\Debug\test_Kozlov_Evgeny.csproj.CoreCompileInputs.cache
+D:\test_KozlovEvgeny\Form\test_Kozlov_Evgeny\test_Kozlov_Evgeny\obj\Debug\test_Kozlov_Evgeny.exe
+D:\test_KozlovEvgeny\Form\test_Kozlov_Evgeny\test_Kozlov_Evgeny\obj\Debug\test_Kozlov_Evgeny.pdb
+D:\test_KozlovEvgeny\Form\test_Kozlov_Evgeny\test_Kozlov_Evgeny\obj\Debug\test_Kozlov_Evgeny.Form2.resources
